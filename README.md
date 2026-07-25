@@ -28,6 +28,16 @@ The application is built using Streamlit and uses a trained LightGBM model for p
 
 ---
 
+## Application Screenshots
+
+### Home Page
+
+![Home Page](Images/Home.png)
+
+### Prediction Result
+
+![Prediction Result](Images/Output.png)
+
 ## Project Structure
 
 Customer-Transaction-Prediction/
